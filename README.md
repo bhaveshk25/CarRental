@@ -21,8 +21,6 @@ Managing a modern vehicle rental fleet requires precise rate calculation, dynami
 - **Intelligent Return & Billing Engine**: Automated late fee computation, damage assessment adjustments, and deposit reconciliation.
 - **Executive Operations Dashboard**: Real-time revenue charts and fleet utilization breakdown.
 
-> **Source Repository**: Core codebase based on [Yogesh33s/CarRental](https://github.com/Yogesh33s/CarRental).
-
 ---
 
 ## ✨ Key Features
